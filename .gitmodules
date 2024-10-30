@@ -1,0 +1,3 @@
+[submodule "music-app"]
+	path = music-app
+	url = https://github.com/edgaryz/music-app
